@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wafaa</h1>
 <h3 align="center">A Full Stack Software Engineering </h3>
 
-<p align="left"> <a href="https://twitter.com/fofino_o" target="blank"><img src="https://img.shields.io/twitter/follow/wafwaf?logo=twitter&style=for-the-badge" alt="wafwaf" /></a> </p>
+//<p align="left"> <a href="https://twitter.com/fofino_o" target="blank"><img src="https://img.shields.io/twitter/follow/wafwaf?logo=twitter&style=for-the-badge" alt="wafwaf" /></a> </p>
 
 - 🔭 I’m currently working on [AirBnb clone](https://github.com/Wafwaf14/AirBnB_clone)
 
