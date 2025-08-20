@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Wafaa  
 ### ✨ Everything is a Widget ✨  
 
-![App Demo](0.gif) | ![App Demo](gif1.gif) 
+![App Demo](1.gif) | ![App Demo](0.gif) | ![App Demo](gif1.gif) 
 ---
 
 ## 🚀 About Me
