@@ -1,7 +1,70 @@
-<h1 align="center">Hi 👋, I'm Wafaa</h1> <h3 align="center">Full Stack Developer specializing in Flutter</h3>
-💬 Ask me about Flutter, Dart, GitHub, Firebase, and Full-Stack Development
-⚡ Fun fact: I enjoy solving complex problems with simple, elegant solutions—and I have a sense of humor!
-<h3 align="left">Languages and Tools I Use:</h3> <p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p> <h3 align="left">More About Me:</h3> - **Dart & Flutter Specialist**: Crafting cross-platform mobile apps that are both scalable and performant.
-Full-Stack Expertise: From designing front-end interfaces to building robust back-end APIs with Node.js, Firebase, and PostgreSQL.
-Open Source Contributor: Check out my ongoing projects on GitHub!
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wafwaf14&show_icons=true&locale=en&layout=compact" alt="wafwaf14" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wafwaf14&" alt="wafwaf14" /></p>
+# 👋 Hi, I'm Wafaa  
+### ✨ Everything is a Widget ✨  
+
+<img src="https://media.giphy.com/media/YOUR-GIF-LINK/giphy.gif" width="500" alt="Flutter animation demo" />
+
+---
+
+## 🚀 About Me
+- 💙 Passionate about **Flutter** & **Clean Architecture**  
+- 🎨 I believe **Every thing is a Widget** – UI, logic, and even creativity  
+- 🌍 Trilingual developer: Arabic, English & French  
+- 🖌️ Currently building an **Art Gallery App** with dual interfaces (Artists & Visitors)  
+
+---
+
+## 🛠️ Tech Stack  
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+---
+
+## 📌 Current Focus
+- 🌟 Building dynamic **Flutter UIs** with animations  
+- 📦 Implementing **local DB & cloud upload** in apps  
+- 🌐 Preparing for **multi-language app releases**  
+
+---
+
+## 📂 Featured Projects  
+
+### 🎨 Art Gallery App  
+A Flutter application with dual interfaces:  
+- **Visitors**: browse artworks with smooth animations  
+- **Artists**: upload and manage their artworks  
+- **Stack**: Flutter, Local DB, Firebase, Clean Architecture  
+
+🔗 [View Repository](https://github.com/Wafwaf14/art_gallery_app)  
+
+---
+
+### ☕ Lovely Coffee App  
+Mobile app concept with animated onboarding & Liquid Swipe.  
+- **Features**: Animated onboarding, interactive UI, clean code structure  
+- **Stack**: Flutter, Custom Animations  
+
+🔗 [View Repository](https://github.com/Wafwaf14/lovely_coffee)  
+
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wafwaf14&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wafwaf14&layout=compact&theme=radical)  
+
+---
+
+## 📬 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wafaa.elhijary@gmail.com)  
+
+---
+
+✨ *Every Widget Tells a Story* ✨  
