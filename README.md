@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Wafaa  
 ### ✨ Everything is a Widget ✨  
 
-<img src="https://media.giphy.com/media/YOUR-GIF-LINK/giphy.gif" width="500" alt="Flutter animation demo" />
-
+![App Demo](0.gif) | ![App Demo](gif1.gif) 
 ---
 
 ## 🚀 About Me
@@ -39,7 +38,7 @@ A Flutter application with dual interfaces:
 - **Artists**: upload and manage their artworks  
 - **Stack**: Flutter, Local DB, Firebase, Clean Architecture  
 
-🔗 [View Repository](https://github.com/Wafwaf14/art_gallery_app)  
+🔗 [View Repository](https://github.com/Wafwaf14/flutter_gallery_app)  
 
 ---
 
